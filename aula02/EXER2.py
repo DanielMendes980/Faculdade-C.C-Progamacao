@@ -9,6 +9,7 @@ dias_vividos = idade_anos * 365
 print(f"Você já viveu aproximadamente {dias_vividos} dias!")
 
 ### Explicação:
-int()## converte o texto digitado em número inteiro
+int()
+## converte o texto digitado em número inteiro
 ## Multiplicamos a idade por 365 para obter os dias
 ## Usamos "aproximadamente" porque não consideramos anos bissextos
